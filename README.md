@@ -1,3 +1,9 @@
-## Haskell CI Group Notes
+## The Haskell CI Group
 
-* [Thursday, August 10 2023 (combined)](./notes/2023-08-10.md)
+This group meets monthly to discuss relevant current events. Anyone who operates
+in the intersection of Haskell and CI is welcome to attend meetings and join the
+discussion. Contact bryan@haskell.foundation for an invite!
+
+## Meeting Notes
+
+* [Thursday, August 10 2023](./meeting-notes/2023-08-10.md)
