@@ -12,11 +12,12 @@ knowledge with the community.
 
 ## Joining the Group
 
-Contact bryan@haskell.foundation for an invite! The next meeting is on September
-14, 2023, at 5:00 and 13:00 UTC (subject to change as needed).
+Contact bryan@haskell.foundation for an invite! The next meeting is on October
+12, 2023, at 5:00 and 13:00 UTC (subject to change as needed).
 
 Want to help develop the group itself? PRs to this repo are also welcome!
 
 ## Meeting Notes
 
 * [Thursday, August 10 2023](./meeting-notes/2023-08-10.md)
+* [Thursday, September 14 2023](./meeting-notes/2023-09-14.md)
